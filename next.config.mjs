@@ -12,7 +12,7 @@ const nextConfig = {
   },
 };
 
-module.exports = nextConfig;
+// module.exports = nextConfig;
 
 
 // export default withSentryConfig(nextConfig, {
